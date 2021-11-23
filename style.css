@@ -1,0 +1,13 @@
+
+.center {
+    margin: 100px auto;
+    text-align: center;
+}
+button {
+    padding: 20px;
+    background: darkgray;
+    font-family: "Lato", sans-serif;
+    font-size: 18pt;
+    border: 1px solid brown;
+    color: brown;
+}
